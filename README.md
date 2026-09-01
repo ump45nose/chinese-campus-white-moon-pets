@@ -4,33 +4,49 @@
 
 这是一个半写实亚洲插画风格的 Codex Pet 合集。人物以黑色高马尾、细圆框眼镜、红手绳和清爽的蓝白校园服饰作为核心识别符号，在窗边逆光、空教室与长走廊中呈现自然、不摆拍的互动感。
 
-## 夏装 Pet 的六个关键动作
+## 高清人物图
 
-以下透明动作图直接取自夏装 Pet 制作阶段的高清动作源图，仅去除原始洋红色键背景，没有重新绘制人物。
+夏装与蓝白运动校服的高清生成图放在同一组展示；这些文件是人物生成成品，不包含用于定型的真人参考照片。
 
-| idle · 安静抱书 | waving · 推镜招呼 | jumping · 大风反应 |
+### 夏装 · 五个瞬间
+
+| idle · 窗边等风 | waving · 擦肩回眸 |
+| --- | --- |
+| <img src="gallery/01-idle-window.png" width="280" alt="窗边抱书与保温杯"> | <img src="gallery/02-waving-lookback.png" width="280" alt="回头推镜并轻轻挥手"> |
+| 抱着书和保温杯，在窗边安静看向你。 | 已经走过去，又回头推镜、轻笑着挥手。 |
+
+| running · 马尾掠过夏天 | failed · 假装生气 | waiting · 欲言又止 |
 | --- | --- | --- |
-| ![夏装 Pet 安静抱书](gallery/pet-actions-summer-v2/01-idle.png) | ![夏装 Pet 回眸推镜](gallery/pet-actions-summer-v2/02-waving.png) | ![夏装 Pet 在大风中整理衣摆](gallery/pet-actions-summer-v2/03-jumping.png) |
-| 安静抱书，等候新的指令。 | 推一下眼镜，轻笑着向你打招呼。 | 马尾和裙褶被风吹乱，连忙整理好衣摆。 |
+| <img src="gallery/03-running-ponytail.png" width="220" alt="跑动时高马尾随步伐摆动"> | <img src="gallery/04-failed-pout-to-smile.png" width="220" alt="叉腰鼓脸却快要笑出来"> | <img src="gallery/05-waiting-unsaid.png" width="220" alt="抬手欲言又止"> |
+| 她抱着书跑过梧桐道，马尾在逆光里扬起。 | 被你捉弄后叉腰鼓脸，下一秒却自己先笑了。 | 抬手想叫住你，又把话留在黄昏里。 |
 
-| failed · 假装生气 | waiting · 欲言又止 | running · 专注翻书 |
-| --- | --- | --- |
-| ![夏装 Pet 叉腰假装生气](gallery/pet-actions-summer-v2/04-failed.png) | ![夏装 Pet 抱书欲言又止](gallery/pet-actions-summer-v2/05-waiting.png) | ![夏装 Pet 专注阅读](gallery/pet-actions-summer-v2/06-running.png) |
-| 叉腰看向你，嘴角却已经快绷不住。 | 抱着书看过来，像是有话想说。 | 认真读书、翻页，进入 Codex 工作状态。 |
+### 蓝白运动校服 · 四个瞬间
 
-## 蓝白校服的四个瞬间
-
-四张展示图统一采用蓝白运动校服版本，并从用户第一视角捕捉放学后的青涩互动。
+四张展示图采用蓝白运动校服版本，并从用户第一视角捕捉放学后的青涩互动。
 
 | 迎风反应 · `jumping` | 低头转笔 · `waiting` |
 | --- | --- |
-| ![大风吹乱马尾和校服，她连忙压住衣摆](gallery/actions/01-wind-reaction.png) | ![她低头转笔，又抬眼看向你](gallery/actions/02-pen-waiting.png) |
+| <img src="gallery/actions/01-wind-reaction.png" width="280" alt="大风吹乱马尾和校服，她连忙压住衣摆"> | <img src="gallery/actions/02-pen-waiting.png" width="280" alt="她低头转笔，又抬眼看向你"> |
 | 这里的 `jumping` 不是跳跃：风突然吹乱马尾和外套，她双脚落地按住衣摆，脸红着对你鼓起脸。 | 笔在指间停停转转，她几次想开口，又把话留在黄昏的教室里。 |
 
 | 假装生气 · `failed` | 拢起马尾 · `review` |
 | --- | --- |
-| ![她叉腰鼓脸，却已经快要笑出来](gallery/actions/03-pout-to-smile.png) | ![她咬住发绳，抬手重新束起马尾](gallery/actions/04-hair-tie-review.png) |
+| <img src="gallery/actions/03-pout-to-smile.png" width="280" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="280" alt="她咬住发绳，抬手重新束起马尾"> |
 | 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，白 T 衣摆随动作自然上移。 |
+
+## 蓝白校服 Pet 的六个关键动作
+
+以下动作直接从蓝白运动校服 Pet 的高清生成条带中选帧，只做绿幕抠除和透明边缘整理，没有从 `192 × 208` 图集小帧放大。README 统一按较小高度展示，点击图片仍可查看高清透明 PNG。
+
+| idle · 抱书待命 | waving · 回眸招呼 | running · 马尾摆动 |
+| --- | --- | --- |
+| <img src="gallery/pet-actions-tracksuit/01-idle.png" height="240" alt="蓝白校服 Pet 抱书待命"> | <img src="gallery/pet-actions-tracksuit/02-waving.png" height="240" alt="蓝白校服 Pet 挥手招呼"> | <img src="gallery/pet-actions-tracksuit/03-running.png" height="240" alt="蓝白校服 Pet 向右跑动"> |
+| 安静抱书，外套自然滑在臂弯。 | 正面轻轻挥手，保持克制的笑意。 | 抱着书向前跑，马尾和外套随动作扬起。 |
+
+| failed · 假装生气 | waiting · 低头转笔 | review · 重新束发 |
+| --- | --- | --- |
+| <img src="gallery/pet-actions-tracksuit/04-failed.png" height="240" alt="蓝白校服 Pet 叉腰鼓脸"> | <img src="gallery/pet-actions-tracksuit/05-waiting.png" height="240" alt="蓝白校服 Pet 低头转笔"> | <img src="gallery/pet-actions-tracksuit/06-review.png" height="240" alt="蓝白校服 Pet 咬着发绳束起马尾"> |
+| 正面对你叉腰鼓脸，认真不了太久。 | 低头转着笔，像是在等你先开口。 | 咬住发绳抬手拢起马尾，准备继续检查结果。 |
 
 ## 人设分解
 
@@ -74,6 +90,8 @@ cp "pets/$PET_ID/pet.json" "pets/$PET_ID/spritesheet.webp" "$HOME/.codex/pets/$P
 
 ```text
 gallery/actions/                       四张蓝白校服第一视角动作图
+gallery/*.png                          五张夏装高清人物生成图
+gallery/pet-actions-tracksuit/         六张高清透明蓝白校服 Pet 动作图
 gallery/pet-actions-summer-v2/         六张透明夏装 Pet 动作图
 gallery/character-sheets/              夏装、校服与日常服饰分解图
 pets/campus-white-moon-daily/          日常基础版与 QA
