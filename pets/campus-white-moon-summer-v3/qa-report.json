@@ -1,7 +1,6 @@
 {
-  "version": "after-overwrite",
-  "petId": "qiu-jiaying-summer-v3",
-  "sourceCreatedAt": "2026-08-31T16:14:01.719708+00:00",
+  "version": "summer-v3-final",
+  "petId": "campus-white-moon-summer-v3",
   "spritesheetSha256": "34b3fb91e12b59789890d45011d06be4be876d2c8f4774e7cdc35b31bb3410cb",
   "atlas": {
     "format": "WEBP",

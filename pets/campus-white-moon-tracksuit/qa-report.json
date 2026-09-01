@@ -1,0 +1,32 @@
+{
+  "petId": "campus-white-moon-tracksuit",
+  "spritesheetSha256": "298a2cfb9ef86589cf53ceefd98d30b9494c69cdce93a573681145a157b9def6",
+  "atlas": {
+    "format": "WEBP",
+    "mode": "RGBA",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "spriteVersionNumber": 2
+  },
+  "validation": {
+    "atlas": "pass",
+    "standardRows": "pass",
+    "blindDirectionReview": "pass",
+    "hardCardinals": "pass",
+    "finalVisualReview": "pass",
+    "transparentRgbResiduePixels": 0
+  },
+  "actions": {
+    "jumping": "双脚落地的迎风反应，不表现跳跃",
+    "failed": "面对用户叉腰鼓脸，随后泄气笑场",
+    "waiting": "低头转笔，间歇看向用户并欲言又止",
+    "review": "咬住发绳抬手束马尾，衣摆自然上移"
+  },
+  "warnings": [
+    "部分中间视线方向的轴向分量较弱，四个硬基准均已通过。",
+    "相邻方向存在局部连续性提醒，正常宠物尺寸下未见反转或明显跳变。"
+  ],
+  "privacy": "仓库不含真人参考图、人设 YAML、生成提示词、本地绝对路径或生成中间产物。"
+}
