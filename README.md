@@ -34,7 +34,23 @@
 | <img src="gallery/actions/03-pout-to-smile.png" width="280" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="280" alt="她咬住发绳，抬手重新束起马尾"> |
 | 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，白 T 衣摆随动作自然上移。 |
 
-## 蓝白校服 Pet 的六个关键动作
+## Pet 的关键动作
+
+### 夏装 Pet · 六个动作
+
+夏装 Pet 的透明动作图继续完整保留，并按较小高度展示，避免低分辨率素材在 README 中被过度放大。
+
+| idle · 安静抱书 | waving · 回眸推镜 | jumping · 大风反应 |
+| --- | --- | --- |
+| <img src="gallery/pet-actions-summer-v2/01-idle.png" height="200" alt="夏装 Pet 安静抱书"> | <img src="gallery/pet-actions-summer-v2/02-waving.png" height="200" alt="夏装 Pet 回眸推镜"> | <img src="gallery/pet-actions-summer-v2/03-jumping.png" height="200" alt="夏装 Pet 在大风中整理衣摆"> |
+| 抱着书，安静等待新的指令。 | 擦肩而过后回头推镜，轻轻打招呼。 | 马尾和裙褶被风吹乱，连忙整理衣摆。 |
+
+| failed · 假装生气 | waiting · 欲言又止 | running · 专注翻书 |
+| --- | --- | --- |
+| <img src="gallery/pet-actions-summer-v2/04-failed.png" height="200" alt="夏装 Pet 叉腰假装生气"> | <img src="gallery/pet-actions-summer-v2/05-waiting.png" height="200" alt="夏装 Pet 抱书欲言又止"> | <img src="gallery/pet-actions-summer-v2/06-running.png" height="200" alt="夏装 Pet 专注阅读"> |
+| 叉腰看向你，嘴角却已经快绷不住。 | 抱着书看过来，像是有话想说。 | 认真阅读和翻页，进入 Codex 工作状态。 |
+
+### 蓝白运动校服 Pet · 六个动作
 
 以下动作直接从蓝白运动校服 Pet 的高清生成条带中选帧，只做绿幕抠除和透明边缘整理，没有从 `192 × 208` 图集小帧放大。README 统一按较小高度展示，点击图片仍可查看高清透明 PNG。
 
