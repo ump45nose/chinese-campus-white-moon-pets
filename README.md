@@ -4,6 +4,20 @@
 
 黑色高马尾、细圆框眼镜、白衬衫与深蓝领结。她总抱着书，站在夏日窗边或放学后的长走廊里；看起来有一点距离感，却会在擦肩而过时回头，推一下眼镜，轻轻向你打招呼。
 
+## 夏装 Pet 的六个关键动作
+
+以下透明动作图直接取自夏装 Pet 制作阶段的高清动作源图，仅去除原始洋红色键背景，没有重新绘制人物。
+
+| idle · 安静抱书 | waving · 推镜招呼 | jumping · 大风反应 |
+| --- | --- | --- |
+| ![夏装 Pet 安静抱书](gallery/pet-actions-summer-v2/01-idle.png) | ![夏装 Pet 回眸推镜](gallery/pet-actions-summer-v2/02-waving.png) | ![夏装 Pet 在大风中整理衣摆](gallery/pet-actions-summer-v2/03-jumping.png) |
+| 安静抱书，等候新的指令。 | 推一下眼镜，轻笑着向你打招呼。 | 马尾和裙褶被风吹乱，连忙整理好衣摆。 |
+
+| failed · 假装生气 | waiting · 欲言又止 | running · 专注翻书 |
+| --- | --- | --- |
+| ![夏装 Pet 叉腰假装生气](gallery/pet-actions-summer-v2/04-failed.png) | ![夏装 Pet 抱书欲言又止](gallery/pet-actions-summer-v2/05-waiting.png) | ![夏装 Pet 专注阅读](gallery/pet-actions-summer-v2/06-running.png) |
+| 叉腰看向你，嘴角却已经快绷不住。 | 抱着书看过来，像是有话想说。 | 认真读书、翻页，进入 Codex 工作状态。 |
+
 ## 五个瞬间
 
 | idle · 窗边等风 | waving · 擦肩回眸 |
@@ -42,6 +56,7 @@ cp "pets/$PET_ID/pet.json" "pets/$PET_ID/spritesheet.webp" "$HOME/.codex/pets/$P
 
 ```text
 gallery/                         五张高清人物特色图
+gallery/pet-actions-summer-v2/   六张透明夏装 Pet 动作图
 pets/qiu-jiaying-anime/          二次元基础版与 QA
 pets/qiu-jiaying-summer-v2/      夏装互动版与 QA
 pets/qiu-jiaying-summer-v3/      夏装白月光版与 QA
