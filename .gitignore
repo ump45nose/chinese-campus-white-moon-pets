@@ -2,3 +2,13 @@
 Thumbs.db
 *.tmp
 
+# Privacy-sensitive source material and generation intermediates
+*.yaml
+*.yml
+Camera_XHS_*
+bak/
+personas/
+references/
+prompts/
+decoded/
+frames/
