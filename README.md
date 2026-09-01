@@ -20,19 +20,19 @@
 | <img src="gallery/03-running-ponytail.png" width="220" alt="跑动时高马尾随步伐摆动"> | <img src="gallery/04-failed-pout-to-smile.png" width="220" alt="叉腰鼓脸却快要笑出来"> | <img src="gallery/05-waiting-unsaid.png" width="220" alt="抬手欲言又止"> |
 | 她抱着书跑过梧桐道，马尾在逆光里扬起。 | 被你捉弄后叉腰鼓脸，下一秒却自己先笑了。 | 抬手想叫住你，又把话留在黄昏里。 |
 
-### 蓝白运动校服 · 四个瞬间
+### 蓝白运动校服 · 五个瞬间
 
-四张展示图采用蓝白运动校服版本，并从用户第一视角捕捉放学后的青涩互动。
+五张展示图采用蓝白运动校服版本，并从用户第一视角捕捉放学后的青涩互动。
 
 | 迎风反应 · `jumping` | 低头转笔 · `waiting` |
 | --- | --- |
 | <img src="gallery/actions/01-wind-reaction.png" width="280" alt="大风吹乱马尾和校服，她连忙压住衣摆"> | <img src="gallery/actions/02-pen-waiting.png" width="280" alt="她低头转笔，又抬眼看向你"> |
 | 这里的 `jumping` 不是跳跃：风突然吹乱马尾和外套，她双脚落地按住衣摆，脸红着对你鼓起脸。 | 笔在指间停停转转，她几次想开口，又把话留在黄昏的教室里。 |
 
-| 假装生气 · `failed` | 拢起马尾 · `review` |
-| --- | --- |
-| <img src="gallery/actions/03-pout-to-smile.png" width="280" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="280" alt="她咬住发绳，抬手重新束起马尾"> |
-| 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，白 T 衣摆随动作自然上移。 |
+| 假装生气 · `failed` | 拢起马尾 · `review` | 运动后 · 被发现 |
+| --- | --- | --- |
+| <img src="gallery/actions/03-pout-to-smile.png" width="220" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="220" alt="她咬住发绳，抬手重新束起马尾"> | <img src="gallery/actions/05-sock-discovered.png" width="220" alt="运动后处理磨脚时被发现"> |
+| 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，真实发丝和校服衣料落在黄昏侧光里。 | 刚跑完操，鞋跟磨得不舒服；她脱下一只短袜检查时，忽然发现你站在门口。 |
 
 ## Pet 的关键动作
 
@@ -105,7 +105,7 @@ cp "pets/$PET_ID/pet.json" "pets/$PET_ID/spritesheet.webp" "$HOME/.codex/pets/$P
 ## 目录
 
 ```text
-gallery/actions/                       四张蓝白校服第一视角动作图
+gallery/actions/                       五张蓝白校服第一视角动作图
 gallery/*.png                          五张夏装高清人物生成图
 gallery/pet-actions-tracksuit/         六张高清透明蓝白校服 Pet 动作图
 gallery/pet-actions-summer-v2/         六张透明夏装 Pet 动作图
