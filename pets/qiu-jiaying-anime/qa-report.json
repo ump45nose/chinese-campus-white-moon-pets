@@ -1,0 +1,20 @@
+{
+  "petId": "qiu-jiaying-anime",
+  "spriteVersionNumber": 2,
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "mode": "RGBA",
+    "sha256": "b5ab9db04802eef5ee73fbe70d72672609130cf8fae4d5517b1cd788ea8b74c4"
+  },
+  "validation": {
+    "standardActions": "pass",
+    "directionBlindQa": "pass",
+    "visualQa": "pass",
+    "transparency": "pass",
+    "errors": [],
+    "warnings": []
+  }
+}
