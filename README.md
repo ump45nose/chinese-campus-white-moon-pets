@@ -12,8 +12,8 @@
 
 | idle · 窗边等风 | waving · 擦肩回眸 |
 | --- | --- |
-| <img src="gallery/01-idle-window.png" width="280" alt="窗边抱书与保温杯"> | <img src="gallery/02-waving-lookback.png" width="280" alt="回头推镜并轻轻挥手"> |
-| 抱着书和保温杯，在窗边安静看向你。 | 已经走过去，又回头推镜、轻笑着挥手。 |
+| <img src="gallery/01-idle-window.png" width="280" alt="窗边抱书与保温杯"> | <img src="gallery/02-waving-lookback.png" width="280" alt="擦肩回眸并轻轻挥手"> |
+| 抱着书和保温杯，在窗边安静看向你。 | 已经走过去，又回头轻笑着挥手。 |
 
 | running · 马尾掠过夏天 | failed · 假装生气 | waiting · 欲言又止 |
 | --- | --- | --- |
@@ -31,8 +31,8 @@
 
 | 假装生气 · `failed` | 拢起马尾 · `review` | 运动后 · 被发现 |
 | --- | --- | --- |
-| <img src="gallery/actions/03-pout-to-smile.png" width="220" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="220" alt="她咬住发绳，抬手重新束起马尾"> | <img src="gallery/actions/05-sock-discovered.png" width="220" alt="运动后处理磨脚时被发现"> |
-| 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，真实发丝和校服衣料落在黄昏侧光里。 | 刚跑完操，鞋跟磨得不舒服；她脱下一只短袜检查时，忽然发现你站在门口。 |
+| <img src="gallery/actions/03-pout-to-smile.png" width="220" alt="她叉腰鼓脸，却已经快要笑出来"> | <img src="gallery/actions/04-hair-tie-review.png" width="220" alt="她咬住发绳，抬手重新束起马尾"> | <img src="gallery/actions/05-sock-discovered.png" width="220" alt="运动后轻拉袜口时被发现"> |
+| 被捉弄后正面对你叉腰鼓脸，下一秒却自己先绷不住笑。 | 她咬着发绳抬手拢起马尾，真实发丝和校服衣料落在黄昏侧光里。 | 刚跑完操，她才轻轻拉开袜口透气，忽然发现你站在门口。 |
 
 ## Pet 的关键动作
 
