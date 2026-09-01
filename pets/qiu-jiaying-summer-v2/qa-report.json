@@ -1,0 +1,50 @@
+{
+  "version": "direction-and-jumping-repair-2026-09-01",
+  "petId": "qiu-jiaying-summer-v2",
+  "spritesheetSha256": "026dd6be3117dfca6b7d1390195abe386af8885674a238370cadb1e727e78a23",
+  "atlas": {
+    "format": "WEBP",
+    "mode": "RGBA",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "spriteVersionNumber": 2
+  },
+  "validation": {
+    "atlas": "pass",
+    "standardRows": "pass",
+    "transparentRgbResiduePixels": 0,
+    "blindDirectionReview": "pass",
+    "blindDirectionPairs": 14,
+    "blindDirectionWarnings": 0,
+    "independentFinalVisualQa": "pass"
+  },
+  "actions": {
+    "jumping": {
+      "status": "pass",
+      "semantics": "大风吹乱马尾、领结与裙褶；角色及时按住被风掀动的裙摆，脸红并对用户鼓嘴",
+      "safety": "无走光、无不安全视角"
+    },
+    "look": {
+      "status": "pass",
+      "cardinals": {
+        "000": "up",
+        "090": "screen-right",
+        "180": "down",
+        "270": "screen-left"
+      },
+      "intermediateDirections": "pass"
+    }
+  },
+  "continuity": {
+    "status": "pass-with-reviewed-metrics",
+    "reviewedWarnings": [
+      "067.5→090 像素差局部离群，目视无硬跳",
+      "157.5→180 像素差局部离群，目视无硬跳",
+      "202.5→225 像素差局部离群，目视无硬跳"
+    ]
+  },
+  "distributionStatus": "ready",
+  "privacy": "仓库不含真人参考图、人设 YAML、生成提示词、本地绝对路径或生成中间产物。"
+}
