@@ -1,0 +1,29 @@
+{
+  "version": "after-overwrite",
+  "petId": "qiu-jiaying-summer-v3",
+  "sourceCreatedAt": "2026-08-31T16:14:01.719708+00:00",
+  "spritesheetSha256": "34b3fb91e12b59789890d45011d06be4be876d2c8f4774e7cdc35b31bb3410cb",
+  "atlas": {
+    "format": "WEBP",
+    "mode": "RGBA",
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "spriteVersionNumber": 2
+  },
+  "validation": {
+    "atlas": "pass",
+    "standardRows": "pass",
+    "blindDirectionReview": "pass",
+    "hardCardinals": "pass",
+    "finalVisualReview": "pass",
+    "transparentRgbResiduePixels": 0
+  },
+  "distributionStatus": "production-ready",
+  "warnings": [
+    "部分 22.5 度中间方向的水平或垂直分量较弱，已按带标签循环复核为非阻断警告。",
+    "157.5→180 与 337.5→000 的相邻像素差异偏高，但正常尺寸下无明显跳变。"
+  ],
+  "privacy": "仓库不含真人参考图、人设 YAML、生成提示词或本地绝对路径。"
+}
